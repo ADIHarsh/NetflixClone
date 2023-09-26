@@ -1,2 +1,2 @@
 # NetflixClone
-Simple website having similar homepage that of Netflix using using HTML and CSS.
+Simple website having similar landing page that of Netflix using using HTML and CSS.
